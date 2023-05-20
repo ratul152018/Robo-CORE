@@ -1,3 +1,5 @@
+![image](https://github.com/ratul152018/Robo-CORE/assets/68326674/ed4eb467-7448-48ba-a92f-0d2d53f236c9)
+
 Robo-core is a humanoid robot. It is created to help us in preventing Corona virus spread.
 
 This repo doesn't have all the source files.
