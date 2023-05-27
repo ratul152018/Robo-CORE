@@ -6,5 +6,4 @@ I will upate in future.
 details.
 https://drive.google.com/drive/folders/1FGqIjWSgSdsPhqCxi2UWjihpeM6XOTkt
 
-
-![CORE En](https://user-images.githubusercontent.com/68326674/156591197-9ffaffcf-1393-4919-a3ce-498ab43df3ce.png)
+![CORE En-01](https://github.com/ratul152018/Robo-CORE/assets/68326674/54a5999f-3fa6-4125-b96b-85dc0040ac23)
